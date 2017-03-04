@@ -1,0 +1,13 @@
+weighted barycenter
+increase weight on detecting prey
+https://en.wikipedia.org/wiki/Fish_School_Search
+
+spawn toroid on detecting algae
+1. project point on plane of the circle
+2. get projection vector of length = radius (name it v1)
+3. get vector from center of circle to point (name it v2)
+4. v3 = v2 - v1
+5. Apply force in -v3 to move particle towards center
+
+More complex space
+reduce hardware costs with squad leaders
